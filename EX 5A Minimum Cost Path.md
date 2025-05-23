@@ -16,8 +16,8 @@ To write a Python program using A Naive recursive implementation of Minimum Cost
 ## Program:
 ```
 /*
-Developed by: Harish R
-Register Number:212222110012
+Developed by: Rakesh V
+Register Number:212222110036
 */
 ```
 ```
