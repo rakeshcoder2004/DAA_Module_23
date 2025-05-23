@@ -14,8 +14,8 @@ To write a python program for finding the minimum number of jumps needed to reac
 ## Program:
 ```
 /*
-Developed by: Harish R
-Register Number: 212222110012
+Developed by: Rakesh V
+Register Number: 212222110036
 */
 ```
 ```
