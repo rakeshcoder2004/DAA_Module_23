@@ -13,8 +13,8 @@ To compute the fewest number of coins that we need to make up the amount given.
 ## Program:
 ```
 /*
-Developed by: Harish R 
-Register Number: 212222110012
+Developed by:Rakesh V
+Register Number: 212222110036
 */
 ```
 ```
