@@ -14,8 +14,8 @@ To write a python program to find the maximum contiguous subarray.
 ## Program:
 ```
 /*
-Developed by: Harish R
-Register Number: 212222110012
+Developed by:Rakesh V
+Register Number: 212222110036
 */
 ```
 ```
